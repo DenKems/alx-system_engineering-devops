@@ -14,3 +14,4 @@
 10. Sets the mode of the file hello to this: 
  *-rwxr-x-wx 1*
 11. Set the mode of the file hello the same as olleh’s mode
+12. Execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
