@@ -10,3 +10,4 @@ This notes all the codes for my tasks at each step
 8. Move the file betty from /tmp/ to /tmp/my_first_directory
 9. Delete the file betty
 10. Delete the directory my_first_directory
+11.Change the working directory to the previous one.
