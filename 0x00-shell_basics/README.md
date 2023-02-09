@@ -8,3 +8,4 @@ This notes all the codes for my tasks at each step
 7. Create a script that creates a directory named my_first_directory in the /tmp/ directory
      Also created an alias called welcome to execute multiple commands
 8. Move the file betty from /tmp/ to /tmp/my_first_directory
+9. Delete the file betty
