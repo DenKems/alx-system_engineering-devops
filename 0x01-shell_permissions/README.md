@@ -4,3 +4,4 @@
 3. Prints all the groups the current user is part of
 4. Changes the owner of the file hello to the user betty
 5. Script that creates an empty file called hello
+6. adds execute permission to the owner of the file hello
