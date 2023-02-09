@@ -11,3 +11,5 @@
  Owner: no permission at all 
  Group: no permission at all 
  Other users: all the permissions
+10. Sets the mode of the file hello to this: 
+ *-rwxr-x-wx 1*
