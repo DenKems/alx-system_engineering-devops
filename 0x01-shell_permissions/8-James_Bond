@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod g+rwx bella
+!#/bin/bash
+chmod 007 bella
