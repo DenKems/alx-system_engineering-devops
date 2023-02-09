@@ -12,3 +12,4 @@ This notes all the codes for my tasks at each step
 10. Delete the directory my_first_directory
 11.Change the working directory to the previous one.
 12. lists all files
+13.  prints the type of the file name
