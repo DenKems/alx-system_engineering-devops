@@ -18,3 +18,4 @@
 13. Create a directory called my_dir with permissions 751 in the working directory
 14. Change the group owner to school for the file hello
 15. Change the owner to vincent and the group owner to staff for all the files and directories in the working directory
+16. Changes the owner and the group owner of _hello to vincent and staff respectively 
