@@ -21,4 +21,4 @@
 20. Translate letters
 21. Create a script that removes all letters c and C from input.
 22. Reverse input
-23.     
+23. Display all users and their home directories, sorted by users     
